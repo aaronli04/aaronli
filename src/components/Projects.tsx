@@ -28,7 +28,7 @@ const Projects = () => {
                         <VStack gap={2} alignItems='flex-start'>
                             <Text>
                                 Vanderbilt doesn&apos;t really use Facebook Marketplace. Instead we have a GroupMe
-                                with 4,000 people constantly pushing random items. I hate GroupMe so I'm building a
+                                with 4,000 people constantly pushing random items. I hate GroupMe so I'm building an
                                 alternative no-fee second-hand market place for students.
                             </Text>
                             <Link href='https://campusthrift.vercel.app/' textDecoration='underline'>
